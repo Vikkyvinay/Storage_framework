@@ -1,0 +1,16 @@
+Firmware Version of /dev/sda : ES68
+Current date and time: 2023-11-23 11:58:19
+Firmware Version of /dev/sdb : ES68
+Current date and time: 2023-11-23 11:58:21
+Firmware Version of /dev/sdc : ES68
+Current date and time: 2023-11-23 11:58:24
+Firmware Version of /dev/sdd : ES66
+Current date and time: 2023-11-23 11:58:26
+Firmware Version of /dev/sdf : Not found
+Current date and time: 2023-11-23 11:58:27
+Firmware Version of /dev/sdg : HPD8
+Current date and time: 2023-11-23 11:58:29
+Raid Controller Information: 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+OS info: PRETTY_NAME="Ubuntu 22.04.2 LTS"
+BIOS Revision: 1.2
+BMC Information: Version: A01

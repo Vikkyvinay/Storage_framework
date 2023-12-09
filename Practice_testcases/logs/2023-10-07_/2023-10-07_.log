@@ -1,0 +1,450 @@
+2023-10-07 12:20:49,577 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:20:51,655 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:20:51,656 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:20:53,892 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:20:53,893 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:20:55,860 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:20:55,862 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:20:58,107 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:20:58,109 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:21:00,211 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-10-07 12:21:00,212 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:21:02,327 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-10-07 12:21:02,328 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:21:02,736 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-10-07 12:21:02,737 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:21:03,102 INFO main.py'' raid_controller 113 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-07 12:21:03,501 INFO main.py'' check_os_version 132 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 12:21:03,903 INFO main.py'' check_bios 122 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-07 12:21:04,271 INFO main.py'' check_BMC_version 143 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 12:25:09,057 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:25:10,977 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:25:10,977 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:25:13,126 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:25:13,127 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:25:15,148 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:25:15,149 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:25:17,345 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:25:17,345 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:25:19,706 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-10-07 12:25:19,707 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:25:21,731 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-10-07 12:25:21,731 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:25:23,739 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-10-07 12:25:23,741 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:25:24,150 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-10-07 12:25:24,151 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:25:24,536 INFO main.py'' raid_controller 113 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-07 12:25:24,864 INFO main.py'' check_os_version 132 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 12:25:25,234 INFO main.py'' check_bios 122 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-07 12:25:25,638 INFO main.py'' check_BMC_version 143 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 12:33:10,514 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:33:12,532 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:33:12,532 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:33:15,190 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:33:15,190 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:33:17,129 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:33:17,130 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:33:19,315 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:33:19,316 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:33:21,404 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-10-07 12:33:21,406 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:33:23,477 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-10-07 12:33:23,479 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:33:25,429 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-10-07 12:33:25,430 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:33:25,976 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-10-07 12:33:25,978 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:33:26,488 INFO main.py'' raid_controller 113 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-07 12:33:26,814 INFO main.py'' check_os_version 132 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 12:33:27,219 INFO main.py'' check_bios 122 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-07 12:33:27,745 INFO main.py'' check_BMC_version 143 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 12:35:21,763 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:35:23,792 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:35:23,794 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:35:26,929 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:35:26,930 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:35:28,931 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:35:28,933 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:35:31,138 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:35:31,139 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:35:33,328 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-10-07 12:35:33,329 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:35:35,351 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-10-07 12:35:35,353 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:35:37,320 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-10-07 12:35:37,321 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:35:37,768 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-10-07 12:35:37,769 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:35:38,227 INFO main.py'' raid_controller 113 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-07 12:35:38,842 INFO main.py'' check_os_version 132 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 12:35:39,325 INFO main.py'' check_bios 122 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-07 12:35:39,742 INFO main.py'' check_BMC_version 143 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 12:36:22,756 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:36:24,738 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:36:24,739 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:36:26,949 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:36:26,951 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:36:28,844 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:36:28,844 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:36:31,087 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-10-07 12:36:31,088 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:36:33,138 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-10-07 12:36:33,139 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:36:35,188 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-10-07 12:36:35,190 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:36:37,117 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-10-07 12:36:37,118 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:36:37,509 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-10-07 12:36:37,510 INFO main.py'' <module> 224 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-10-07 12:36:37,934 INFO main.py'' raid_controller 113 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-07 12:36:38,311 INFO main.py'' check_os_version 132 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 12:36:38,712 INFO main.py'' check_bios 122 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-07 12:36:39,133 INFO main.py'' check_BMC_version 143 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 12:47:14,214 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:47:38,486 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:49:34,727 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:51:04,529 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:51:04,944 INFO main.py'' check_os_version 137 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 12:52:14,337 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-10-07 12:52:14,747 INFO main.py'' check_os_version 140 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 12:52:15,144 INFO main.py'' check_BMC_version 151 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 13:01:38,994 INFO main.py'' get_server_uptime 40 :: Server up<re.Match object; span=(10, 15), match='up  3'>
+2023-10-07 13:01:39,333 INFO main.py'' get_server_drives 54 :: Listing the server drivers
+2023-10-07 13:01:47,209 INFO main.py'' get_server_uptime 40 :: Server up<re.Match object; span=(10, 15), match='up  3'>
+2023-10-07 13:01:47,701 INFO main.py'' get_server_drives 54 :: Listing the server drivers
+2023-10-07 13:01:48,204 INFO main.py'' check_os_version 143 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 13:01:48,716 INFO main.py'' check_BMC_version 158 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 13:01:49,937 INFO main.py'' sensors_info 106 :: sensor detailsSEL              | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Intrusion        | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+Fan1 RPM         | 3480.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan2 RPM         | 3600.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan3 RPM         | 3600.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan4 RPM         | 3480.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan5 RPM         | 3480.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan6 RPM         | 3480.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Inlet Temp       | 30.000     | degrees C  | ok    | na        | -7.000    | 3.000     | 42.000    | 47.000    | na        
+Exhaust Temp     | 39.000     | degrees C  | ok    | na        | 3.000     | 8.000     | 70.000    | 75.000    | na        
+Temp             | na         |            | na    | na        | na        | na        | 0.000     | na        | na        
+Temp             | na         |            | na    | na        | na        | na        | 0.000     | na        | na        
+OS Watchdog      | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+VCORE PG         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VCORE PG         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+3.3V PG          | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+5V PG            | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+USB Cable Pres   | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Dedicated NIC    | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VGA Cable Pres   | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+PLL PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+PLL PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+1.1V PG          | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+BP0 5V PG        | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+M23 VDDQ PG      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M23 VTT PG       | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+FETDRV PG        | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VSA PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VSA PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M01 VDDQ PG      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M01 VDDQ PG      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M23 VTT PG       | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M01 VTT PG       | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+NDC PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+LCD Cable Pres   | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VTT PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VTT PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M23 VDDQ PG      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0280| na        | na        | na        | na        | na        | na        
+Status           | 0x0        | discrete   | 0x8080| na        | na        | na        | na        | na        | na        
+Status           | 0x0        | discrete   | 0x8080| na        | na        | na        | na        | na        | na        
+Fan Redundancy   | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Riser Config Err | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+1.5V PG          | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+BP1 5V PG        | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+BP2 5V PG        | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+BP3 5V PG        | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+M01 VTT PG       | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+PCIe Slot0       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot1       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot2       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot3       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot4       | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+PCIe Slot5       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot6       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+vFlash           | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+CMOS Battery     | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0280| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0280| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0280| na        | na        | na        | na        | na        | na        
+Current 1        | 0.300      | Amps       | ok    | na        | na        | na        | na        | na        | na        
+Current 2        | 0.400      | Amps       | ok    | na        | na        | na        | na        | na        | na        
+Voltage 1        | 240.000    | Volts      | ok    | na        | na        | na        | na        | na        | na        
+Voltage 2        | 240.000    | Volts      | ok    | na        | na        | na        | na        | na        | na        
+PS Redundancy    | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Status           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Status           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Pwr Consumption  | 154.000    | Watts      | ok    | na        | na        | na        | 1792.000  | 1974.000  | na        
+Power Optimized  | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+SD1              | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+SD2              | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Redundancy       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+ECC Corr Err     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+ECC Uncorr Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+I/O Channel Chk  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCI Parity Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCI System Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+SBE Log Disabled | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Logging Disabled | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Unknown          | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU Protocol Err | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU Bus PERR     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU Init Err     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU Machine Chk  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Spared    | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Mirrored  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory RAID      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Added     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Removed   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Cfg Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem Redun Gain   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIE Fatal Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Chipset Err      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Err Reg Pointer  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem ECC Warning  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem CRC Err      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+USB Over-current | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+POST Err         | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Hdwr version err | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem Overtemp     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem Fatal SB CRC | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem Fatal NB CRC | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+OS Watchdog Time | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Non Fatal PCI Er | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Fatal IO Error   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+MSR Info Log     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+TXT Status       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Drive 0          | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Drive 15         | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Drive 30         | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS A      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS B      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS C      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS D      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS A      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Cable SAS B      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Cable SAS C      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS D      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS A      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS B      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS C      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS D      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS A      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS B      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS C      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS D      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Power Cable      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Signal Cable     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Power Cable      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Signal Cable     | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Power Cable      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Signal Cable     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Power Cable      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Signal Cable     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PFault Fail Safe | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+ROMB Battery     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+ROMB Battery     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Riser 1 Presence | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Riser 2 Presence | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Riser 3 Presence | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+
+2023-10-07 13:01:50,901 INFO main.py'' check_bios 129 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-07 13:02:40,332 INFO main.py'' get_server_uptime 40 :: Server up<re.Match object; span=(10, 15), match='up  3'>
+2023-10-07 13:02:40,744 INFO main.py'' get_server_drives 54 :: Listing the server drivers
+2023-10-07 13:02:41,279 INFO main.py'' check_os_version 143 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 13:02:41,778 INFO main.py'' check_BMC_version 158 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 13:02:42,837 INFO main.py'' sensors_info 106 :: sensor detailsSEL              | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Intrusion        | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+Fan1 RPM         | 3480.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan2 RPM         | 3600.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan3 RPM         | 3480.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan4 RPM         | 3480.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan5 RPM         | 3600.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Fan6 RPM         | 3600.000   | RPM        | ok    | na        | 600.000   | 840.000   | na        | na        | na        
+Inlet Temp       | 30.000     | degrees C  | ok    | na        | -7.000    | 3.000     | 42.000    | 47.000    | na        
+Exhaust Temp     | 39.000     | degrees C  | ok    | na        | 3.000     | 8.000     | 70.000    | 75.000    | na        
+Temp             | na         |            | na    | na        | na        | na        | 0.000     | na        | na        
+Temp             | na         |            | na    | na        | na        | na        | 0.000     | na        | na        
+OS Watchdog      | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+VCORE PG         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VCORE PG         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+3.3V PG          | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+5V PG            | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+USB Cable Pres   | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Dedicated NIC    | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VGA Cable Pres   | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+PLL PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+PLL PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+1.1V PG          | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+BP0 5V PG        | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+M23 VDDQ PG      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M23 VTT PG       | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+FETDRV PG        | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VSA PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VSA PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M01 VDDQ PG      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M01 VDDQ PG      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M23 VTT PG       | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M01 VTT PG       | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+NDC PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+LCD Cable Pres   | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VTT PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+VTT PG           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+M23 VDDQ PG      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0280| na        | na        | na        | na        | na        | na        
+Status           | 0x0        | discrete   | 0x8080| na        | na        | na        | na        | na        | na        
+Status           | 0x0        | discrete   | 0x8080| na        | na        | na        | na        | na        | na        
+Fan Redundancy   | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Riser Config Err | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+1.5V PG          | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+BP1 5V PG        | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+BP2 5V PG        | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+BP3 5V PG        | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+M01 VTT PG       | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+PCIe Slot0       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot1       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot2       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot3       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot4       | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+PCIe Slot5       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIe Slot6       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+vFlash           | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+CMOS Battery     | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0280| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0280| na        | na        | na        | na        | na        | na        
+Presence         | 0x0        | discrete   | 0x0280| na        | na        | na        | na        | na        | na        
+Current 1        | 0.300      | Amps       | ok    | na        | na        | na        | na        | na        | na        
+Current 2        | 0.400      | Amps       | ok    | na        | na        | na        | na        | na        | na        
+Voltage 1        | 240.000    | Volts      | ok    | na        | na        | na        | na        | na        | na        
+Voltage 2        | 240.000    | Volts      | ok    | na        | na        | na        | na        | na        | na        
+PS Redundancy    | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Status           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Status           | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Pwr Consumption  | 154.000    | Watts      | ok    | na        | na        | na        | 1792.000  | 1974.000  | na        
+Power Optimized  | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+SD1              | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+SD2              | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Redundancy       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+ECC Corr Err     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+ECC Uncorr Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+I/O Channel Chk  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCI Parity Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCI System Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+SBE Log Disabled | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Logging Disabled | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Unknown          | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU Protocol Err | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU Bus PERR     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU Init Err     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU Machine Chk  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Spared    | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Mirrored  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory RAID      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Added     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Removed   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Memory Cfg Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem Redun Gain   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PCIE Fatal Err   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Chipset Err      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Err Reg Pointer  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem ECC Warning  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem CRC Err      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+USB Over-current | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+POST Err         | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Hdwr version err | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem Overtemp     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem Fatal SB CRC | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Mem Fatal NB CRC | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+OS Watchdog Time | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Non Fatal PCI Er | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Fatal IO Error   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+MSR Info Log     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+TXT Status       | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Drive 0          | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Drive 15         | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Drive 30         | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS A      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS B      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS C      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS D      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS A      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Cable SAS B      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Cable SAS C      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS D      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS A      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS B      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS C      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS D      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS A      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS B      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS C      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Cable SAS D      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Power Cable      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Signal Cable     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Power Cable      | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Signal Cable     | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Power Cable      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Signal Cable     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Power Cable      | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Signal Cable     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+PFault Fail Safe | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+ROMB Battery     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+ROMB Battery     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+Riser 1 Presence | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Riser 2 Presence | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+Riser 3 Presence | 0x0        | discrete   | 0x0180| na        | na        | na        | na        | na        | na        
+
+2023-10-07 13:02:43,426 INFO main.py'' raid_controller 116 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-07 13:02:43,926 INFO main.py'' check_bios 129 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-07 13:05:32,267 INFO main.py'' get_server_uptime 39 :: Server up<re.Match object; span=(10, 15), match='up  3'>
+2023-10-07 13:05:32,922 INFO main.py'' get_server_drives 53 :: Listing the server drivers
+2023-10-07 13:05:33,391 INFO main.py'' check_os_version 130 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 13:05:33,912 INFO main.py'' check_BMC_version 145 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 13:05:34,452 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-07 13:05:34,766 INFO main.py'' check_bios 115 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-07 13:06:06,417 INFO main.py'' create_raid 79 :: Raid Created
+2023-10-07 13:06:07,082 INFO main.py'' delete_raid 93 :: Raid Stop
+2023-10-07 13:19:58,777 INFO main.py'' get_server_uptime 39 :: Server up <re.Match object; span=(10, 15), match='up  3'>
+2023-10-07 13:19:59,190 INFO main.py'' get_server_drives 53 :: Listing the server drivers ['sda', 'sdb', 'sdc', 'sdd', 'sde', 'sdf', 'sdg', 'sdh']
+2023-10-07 13:19:59,604 INFO main.py'' check_os_version 130 :: os information <re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 13:20:00,010 INFO main.py'' check_bmc_version 145 :: BMC version <re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 13:20:00,451 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-07 13:20:00,783 INFO main.py'' check_bios 115 :: bios information <re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-07 13:20:25,626 INFO main.py'' create_raid 79 :: Raid Created
+2023-10-07 13:21:39,205 INFO main.py'' get_server_uptime 39 :: Server up <re.Match object; span=(10, 15), match='up  3'>
+2023-10-07 13:21:39,519 INFO main.py'' get_server_drives 53 :: Listing the server drivers ['sda', 'sdb', 'sdc', 'sdd', 'sde', 'sdf', 'sdg', 'sdh']
+2023-10-07 13:21:39,823 INFO main.py'' check_os_version 130 :: os information <re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-07 13:21:40,197 INFO main.py'' check_bmc_version 145 :: BMC version <re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-07 13:21:40,531 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-07 13:21:40,986 INFO main.py'' check_bios 115 :: bios information <re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>

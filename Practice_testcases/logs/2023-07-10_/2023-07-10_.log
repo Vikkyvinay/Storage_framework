@@ -1,0 +1,381 @@
+2023-07-10 11:26:23,054 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:26:25,001 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:26:25,001 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:26:27,155 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:26:27,156 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:26:29,062 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:26:29,064 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:26:31,251 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:26:31,252 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:26:33,186 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:26:33,188 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:26:35,299 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:26:35,300 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:26:37,363 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:26:37,365 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:26:37,785 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:26:37,787 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:26:38,106 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 11:26:38,457 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 11:27:16,923 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:27:18,845 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:27:18,847 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:27:21,014 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:27:21,016 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:27:22,930 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:27:22,932 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:27:25,113 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:27:25,114 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:27:27,069 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:27:27,070 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:27:29,076 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:27:29,078 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:27:31,159 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:27:31,160 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:27:31,590 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:27:31,591 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:27:31,909 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 11:27:32,266 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 11:30:28,049 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:30:29,973 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:30:29,975 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:30:32,135 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:30:32,136 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:30:34,036 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:30:34,037 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:30:36,222 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:30:36,224 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:30:38,151 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:30:38,152 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:30:40,155 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:30:40,156 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:30:42,233 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:30:42,235 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:30:42,638 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:30:42,639 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:30:42,965 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 11:30:43,328 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 11:33:20,761 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:33:22,679 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:33:22,681 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:33:24,914 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:33:24,915 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:33:26,846 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:33:26,847 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:33:29,126 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:33:29,128 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:33:31,031 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:33:31,032 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:33:33,023 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:33:33,024 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:33:35,114 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:33:35,115 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:33:35,523 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:33:35,525 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:33:35,874 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 11:33:36,224 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 11:34:25,747 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:34:27,804 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:34:27,805 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:34:29,947 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:34:29,947 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:34:31,883 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:34:31,884 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:34:34,062 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:34:34,062 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:34:36,082 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:34:36,083 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:34:38,085 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:34:38,086 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:34:40,161 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:34:40,163 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:34:40,582 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:34:40,583 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:34:40,913 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 11:34:41,277 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 11:36:55,273 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:36:57,305 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:36:57,307 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:36:59,503 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:36:59,503 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:37:01,418 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:37:01,419 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:37:03,655 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:37:03,656 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:37:05,896 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:37:05,898 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:37:07,955 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:37:07,957 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:37:10,026 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:37:10,029 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:37:10,448 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:37:10,450 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:37:10,801 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 11:37:11,153 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 11:43:02,713 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:43:04,614 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:43:04,615 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:43:06,764 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:43:06,765 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:43:08,736 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:43:08,736 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:43:11,973 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:43:11,974 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:43:14,032 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:43:14,034 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:43:16,103 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:43:16,104 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:43:18,169 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:43:18,169 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:43:18,580 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:43:18,581 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:43:18,918 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 11:43:19,268 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 11:44:02,690 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:44:04,821 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:44:04,822 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:44:07,182 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:44:07,183 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:44:09,529 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:44:09,531 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:44:11,881 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:44:11,881 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:44:13,794 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:44:13,796 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:44:15,804 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:44:15,805 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:44:17,875 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:44:17,875 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:44:18,269 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:44:18,271 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:44:51,232 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:44:53,276 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:44:55,434 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:44:57,861 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:45:00,059 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:45:02,038 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:45:04,051 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:45:06,124 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:45:06,527 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:47:06,527 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:47:08,471 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:47:11,398 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:47:13,443 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:47:15,607 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:47:17,529 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:47:19,521 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:47:21,632 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:47:22,041 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:49:12,721 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:49:14,623 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:49:16,767 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:49:18,658 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:49:20,833 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:49:22,722 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:49:24,695 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:49:26,940 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:49:27,341 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:50:17,799 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:50:19,699 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:50:19,700 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:50:21,859 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:50:21,860 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:50:23,770 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:50:23,772 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:50:25,951 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 11:50:25,953 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:50:27,867 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:50:27,868 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:50:29,895 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 11:50:29,897 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:50:32,612 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 11:50:32,614 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:50:33,024 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 11:50:33,025 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 11:50:33,349 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 11:50:33,763 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 11:53:26,477 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 11:58:01,582 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:01:25,664 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 12:01:27,736 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:01:27,737 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:01:30,348 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:01:30,348 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:01:32,330 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:01:32,332 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:01:34,581 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:01:34,582 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:01:36,494 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:01:36,495 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:01:38,561 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 12:01:38,561 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:01:41,191 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:01:41,193 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:01:41,581 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 12:01:41,583 INFO main.py'' <module> 179 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:01:41,904 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 12:01:42,237 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 12:04:57,203 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 12:04:59,128 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:04:59,130 INFO main.py'' <module> 181 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:05:01,306 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:05:01,308 INFO main.py'' <module> 181 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:05:03,214 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:05:03,216 INFO main.py'' <module> 181 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:05:05,585 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:05:05,588 INFO main.py'' <module> 181 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:05:07,483 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:05:07,486 INFO main.py'' <module> 181 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:05:09,490 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 12:05:09,491 INFO main.py'' <module> 181 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:05:11,571 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:05:11,573 INFO main.py'' <module> 181 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:05:11,969 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 12:05:11,970 INFO main.py'' <module> 181 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:05:12,275 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 12:05:12,624 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 12:05:12,934 INFO main.py'' check_os_version 144 :: os information<re.Match object; span=(47, 65), match='VERSION_ID="22.04"'>
+2023-07-10 12:15:54,862 INFO main.py'' check_BMC 155 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-07-10 12:16:54,535 INFO main.py'' check_BMC_version 155 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-07-10 12:18:52,883 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 12:18:54,789 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:18:54,791 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:18:56,939 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:18:56,941 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:18:58,928 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:18:58,930 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:19:01,184 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:19:01,185 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:19:03,333 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:19:03,333 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:19:05,375 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 12:19:05,377 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:19:07,441 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:19:07,443 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:19:07,846 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 12:19:07,847 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:19:08,166 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 12:19:08,509 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 12:19:08,832 INFO main.py'' check_os_version 144 :: os information<re.Match object; span=(47, 65), match='VERSION_ID="22.04"'>
+2023-07-10 12:19:09,153 INFO main.py'' check_BMC_version 155 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-07-10 12:21:51,560 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 12:21:53,457 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:21:53,458 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:21:55,639 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:21:55,641 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:21:57,670 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:21:57,672 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:21:59,870 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:21:59,871 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:01,769 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:22:01,771 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:03,781 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 12:22:03,783 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:05,858 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:22:05,859 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:06,285 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 12:22:06,287 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:06,606 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 12:22:06,954 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 12:22:07,270 INFO main.py'' check_os_version 144 :: os information<re.Match object; span=(47, 65), match='VERSION_ID="22.04"'>
+2023-07-10 12:22:07,732 INFO main.py'' check_BMC_version 155 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-07-10 12:22:45,970 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 12:22:47,891 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:22:47,892 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:50,116 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:22:50,118 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:52,089 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:22:52,090 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:54,288 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:22:54,290 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:56,202 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:22:56,203 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:22:58,206 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 12:22:58,207 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:00,336 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:23:00,337 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:00,738 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 12:23:00,740 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:01,077 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 12:23:01,435 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 12:23:01,801 INFO main.py'' check_os_version 144 :: os information<re.Match object; span=(47, 65), match='VERSION_ID="22.04"'>
+2023-07-10 12:23:02,121 INFO main.py'' check_BMC_version 155 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-07-10 12:23:22,391 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 12:23:24,346 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:23:24,347 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:26,518 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:23:26,520 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:28,432 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:23:28,433 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:30,607 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:23:30,607 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:32,513 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:23:32,515 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:34,586 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 12:23:34,588 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:36,657 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:23:36,659 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:37,076 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 12:23:37,078 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:23:37,412 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 12:23:37,764 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 12:23:38,101 INFO main.py'' check_os_version 144 :: os information<re.Match object; span=(47, 65), match='VERSION_ID="22.04"'>
+2023-07-10 12:23:38,410 INFO main.py'' check_BMC_version 155 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-07-10 12:24:09,190 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 12:24:11,353 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:24:11,355 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:24:13,615 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:24:13,617 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:24:15,582 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:24:15,584 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:24:17,775 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:24:17,776 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:24:19,680 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:24:19,682 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:24:21,685 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 12:24:21,686 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:24:23,770 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:24:23,771 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:24:24,181 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 12:24:24,183 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:24:24,505 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 12:24:24,853 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 12:24:25,185 INFO main.py'' check_os_version 144 :: os information<re.Match object; span=(47, 65), match='VERSION_ID="22.04"'>
+2023-07-10 12:24:25,511 INFO main.py'' check_BMC_version 155 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-07-10 12:27:49,359 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-10 12:27:51,266 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:27:51,268 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:27:53,438 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:27:53,439 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:27:55,347 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:27:55,348 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:27:57,592 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-10 12:27:57,594 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:27:59,482 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:27:59,483 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:28:01,488 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-10 12:28:01,490 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:28:03,553 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-10 12:28:03,555 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:28:04,013 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-10 12:28:04,013 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-10 12:28:04,375 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-10 12:28:04,697 INFO main.py'' check_os_version 144 :: os information<re.Match object; span=(47, 65), match='VERSION_ID="22.04"'>
+2023-07-10 12:28:05,023 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-10 12:28:05,345 INFO main.py'' check_BMC_version 155 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>

@@ -1,0 +1,6 @@
+2023-06-18 11:44:48,577 INFO main.py'' raid_controller 106 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-06-18 11:44:49,438 INFO main.py'' raid_controller 106 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-06-18 11:52:18,746 INFO main.py'' get_server_uptime 40 :: Server up<re.Match object; span=(10, 18), match='up  1:44'>
+2023-06-18 11:54:13,428 INFO main.py'' get_server_drives 53 :: Listing the server drivers

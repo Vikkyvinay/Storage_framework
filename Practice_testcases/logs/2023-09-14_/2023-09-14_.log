@@ -1,0 +1,16 @@
+2023-09-14 19:32:29,083 INFO main.py'' get_server_uptime 37 :: Server up<re.Match object; span=(10, 15), match='up  6'>
+2023-09-14 19:32:29,083 INFO test_cases.py'' test_get_up_time 15 :: Setuo is up
+2023-09-14 19:32:29,517 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-09-14 19:32:29,517 INFO test_cases.py'' test_get_server_drives 27 :: test pass
+2023-09-14 19:32:29,938 INFO main.py'' raid_controller 112 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-09-14 19:32:30,290 INFO main.py'' check_bios 121 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-09-14 19:32:30,710 INFO main.py'' check_os_version 131 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>
+2023-09-14 19:32:45,882 INFO main.py'' get_server_uptime 37 :: Server up<re.Match object; span=(10, 15), match='up  6'>
+2023-09-14 19:32:45,883 INFO test_cases.py'' test_get_up_time 15 :: Setuo is up
+2023-09-14 19:32:46,246 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-09-14 19:32:46,247 ERROR test_cases.py'' test_get_server_drives 30 :: test fail
+2023-09-14 19:32:46,757 INFO main.py'' raid_controller 112 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-09-14 19:32:47,122 INFO main.py'' check_bios 121 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-09-14 19:32:47,526 INFO main.py'' check_os_version 131 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>

@@ -1,0 +1,17 @@
+2023-11-25 11:15:27,911 INFO main.py'' get_server_uptime 39 :: Server up <re.Match object; span=(10, 15), match='up  2'>
+2023-11-25 11:15:28,345 INFO main.py'' get_server_drives 53 :: Listing the server drivers ['sda', 'sdb', 'sdc', 'sdd', 'sde', 'sdf', 'sdg']
+2023-11-25 11:15:28,809 INFO main.py'' check_os_version 130 :: os information <re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>
+2023-11-25 11:15:29,318 INFO main.py'' check_bmc_version 145 :: BMC version <re.Match object; span=(175, 187), match='Version: A01'>
+2023-11-25 11:15:29,953 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-11-25 11:15:30,439 INFO main.py'' check_bios 115 :: bios information <re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-11-25 11:22:18,929 INFO main.py'' create_partition 158 :: Partition created successfully!
+2023-11-25 11:23:53,683 INFO main.py'' create_partition 158 :: Partition created successfully!
+2023-11-25 13:07:06,384 INFO main.py'' get_server_uptime 39 :: Server up <re.Match object; span=(10, 15), match='up 21'>
+2023-11-25 13:07:06,387 INFO test_cases.py'' test_get_up_time 15 :: Setup is up
+2023-11-25 13:07:08,029 INFO main.py'' get_server_drives 53 :: Listing the server drivers ['sda', 'sdb', 'sdc', 'sdd', 'sde', 'sdf', 'sdg']
+2023-11-25 13:07:08,030 ERROR test_cases.py'' test_get_server_drives 30 :: test fail
+2023-11-25 13:07:08,821 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-11-25 13:07:09,441 INFO main.py'' check_bios 115 :: bios information <re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-11-25 13:07:10,514 INFO main.py'' check_os_version 130 :: os information <re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>

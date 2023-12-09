@@ -1,0 +1,62 @@
+2023-07-01 12:00:33,417 INFO main.py'' get_server_drives 54 :: Listing the server drivers
+2023-07-01 12:00:44,868 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:00:44,869 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwvesion_currentdateandtime.bin.
+2023-07-01 12:00:50,539 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:00:50,540 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwvesion_currentdateandtime.bin.
+2023-07-01 12:00:54,790 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:00:54,791 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwvesion_currentdateandtime.bin.
+2023-07-01 12:00:57,452 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:00:57,454 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwvesion_currentdateandtime.bin.
+2023-07-01 12:00:59,328 INFO main.py'' get_fw_version 66 :: drive informationES66
+2023-07-01 12:00:59,329 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwvesion_currentdateandtime.bin.
+2023-07-01 12:01:04,245 INFO main.py'' get_fw_version 66 :: drive informationES62
+2023-07-01 12:01:04,246 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwvesion_currentdateandtime.bin.
+2023-07-01 12:01:08,707 INFO main.py'' get_fw_version 66 :: drive informationES66
+2023-07-01 12:01:08,708 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwvesion_currentdateandtime.bin.
+2023-07-01 12:02:53,559 INFO main.py'' get_server_drives 54 :: Listing the server drivers
+2023-07-01 12:02:55,573 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:02:55,574 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:02:57,990 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:02:57,991 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:03:00,139 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:03:00,140 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:03:02,582 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:03:02,584 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:03:04,855 INFO main.py'' get_fw_version 66 :: drive informationES66
+2023-07-01 12:03:04,856 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:03:09,535 INFO main.py'' get_fw_version 66 :: drive informationES62
+2023-07-01 12:03:09,536 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:03:12,376 INFO main.py'' get_fw_version 66 :: drive informationES66
+2023-07-01 12:03:12,378 INFO main.py'' <module> 173 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:11:40,083 INFO main.py'' get_server_drives 54 :: Listing the server drivers
+2023-07-01 12:11:42,518 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:11:42,520 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:11:44,967 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:11:44,968 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:11:46,940 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:11:46,941 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:11:49,213 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:11:49,215 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:11:51,180 INFO main.py'' get_fw_version 66 :: drive informationES66
+2023-07-01 12:11:51,183 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:11:53,215 INFO main.py'' get_fw_version 66 :: drive informationES62
+2023-07-01 12:11:53,216 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:11:55,260 INFO main.py'' get_fw_version 66 :: drive informationES66
+2023-07-01 12:11:55,262 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:11:55,633 INFO main.py'' check_bios 135 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-01 12:12:55,690 INFO main.py'' get_server_drives 54 :: Listing the server drivers
+2023-07-01 12:12:57,664 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:12:57,665 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:12:59,978 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:12:59,979 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:13:01,942 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:13:01,943 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:13:04,461 INFO main.py'' get_fw_version 66 :: drive informationES68
+2023-07-01 12:13:04,462 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:13:06,548 INFO main.py'' get_fw_version 66 :: drive informationES66
+2023-07-01 12:13:06,549 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:13:08,584 INFO main.py'' get_fw_version 66 :: drive informationES62
+2023-07-01 12:13:08,585 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:13:10,847 INFO main.py'' get_fw_version 66 :: drive informationES66
+2023-07-01 12:13:10,848 INFO main.py'' <module> 171 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-01 12:13:11,393 INFO main.py'' check_bios 135 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>

@@ -1,0 +1,36 @@
+2023-10-08 11:16:40,835 INFO main.py'' get_server_uptime 39 :: Server up <re.Match object; span=(10, 14), match='up 5'>
+2023-10-08 11:16:41,185 INFO main.py'' get_server_drives 53 :: Listing the server drivers ['sda', 'sdb', 'sdc', 'sdd', 'sde', 'sdf', 'sdg', 'sdh']
+2023-10-08 11:16:41,570 INFO main.py'' check_os_version 130 :: os information <re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-08 11:16:41,948 INFO main.py'' check_bmc_version 145 :: BMC version <re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-08 11:16:42,370 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-08 11:16:42,772 INFO main.py'' check_bios 115 :: bios information <re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-08 11:18:03,158 INFO main.py'' get_server_uptime 39 :: Server up <re.Match object; span=(10, 14), match='up 7'>
+2023-10-08 11:18:03,691 INFO main.py'' get_server_drives 53 :: Listing the server drivers ['sda', 'sdb', 'sdc', 'sdd', 'sde', 'sdf', 'sdg', 'sdh']
+2023-10-08 11:18:04,179 INFO main.py'' check_os_version 130 :: os information <re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-08 11:18:04,583 INFO main.py'' check_bmc_version 145 :: BMC version <re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-08 11:18:05,028 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-08 11:18:05,385 INFO main.py'' check_bios 115 :: bios information <re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-08 11:18:13,805 INFO main.py'' get_server_uptime 39 :: Server up <re.Match object; span=(10, 14), match='up 7'>
+2023-10-08 11:18:14,215 INFO main.py'' get_server_drives 53 :: Listing the server drivers ['sda', 'sdb', 'sdc', 'sdd', 'sde', 'sdf', 'sdg', 'sdh']
+2023-10-08 11:18:14,625 INFO main.py'' check_os_version 130 :: os information <re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-08 11:18:14,952 INFO main.py'' check_bmc_version 145 :: BMC version <re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-08 11:18:15,401 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-08 11:18:15,720 INFO main.py'' check_bios 115 :: bios information <re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-08 11:19:18,183 INFO main.py'' get_server_uptime 39 :: Server up <re.Match object; span=(10, 14), match='up 8'>
+2023-10-08 11:19:18,610 INFO main.py'' get_server_drives 53 :: Listing the server drivers ['sda', 'sdb', 'sdc', 'sdd', 'sde', 'sdf', 'sdg', 'sdh']
+2023-10-08 11:19:18,924 INFO main.py'' check_os_version 130 :: os information <re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>
+2023-10-08 11:19:19,333 INFO main.py'' check_bmc_version 145 :: BMC version <re.Match object; span=(175, 187), match='Version: A01'>
+2023-10-08 11:19:19,788 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-08 11:19:20,147 INFO main.py'' check_bios 115 :: bios information <re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-08 11:19:21,016 INFO main.py'' get_server_uptime 39 :: Server up <re.Match object; span=(10, 14), match='up 8'>
+2023-10-08 11:19:21,017 INFO test_cases.py'' test_get_up_time 15 :: Setup is up
+2023-10-08 11:19:21,403 INFO main.py'' get_server_drives 53 :: Listing the server drivers ['sda', 'sdb', 'sdc', 'sdd', 'sde', 'sdf', 'sdg', 'sdh']
+2023-10-08 11:19:21,404 INFO test_cases.py'' test_get_server_drives 27 :: test pass
+2023-10-08 11:19:21,825 INFO main.py'' raid_controller 103 :: raid controller version 03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-10-08 11:19:22,176 INFO main.py'' check_bios 115 :: bios information <re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-10-08 11:19:22,621 INFO main.py'' check_os_version 130 :: os information <re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.3 LTS"'>

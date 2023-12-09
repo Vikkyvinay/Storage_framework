@@ -1,0 +1,38 @@
+2023-08-30 11:22:57,286 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-08-30 11:22:57,662 INFO main.py'' get_server_uptime 37 :: Server up<re.Match object; span=(10, 15), match='up 27'>
+2023-08-30 11:22:58,076 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-08-30 11:22:58,483 INFO main.py'' raid_controller 112 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-08-30 11:22:58,969 INFO main.py'' check_bios 121 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-08-30 11:22:59,305 INFO main.py'' check_os_version 131 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>
+2023-08-30 11:23:25,794 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-08-30 11:23:26,142 INFO main.py'' get_server_uptime 37 :: Server up<re.Match object; span=(10, 15), match='up 27'>
+2023-08-30 11:23:26,490 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-08-30 11:23:26,949 INFO main.py'' raid_controller 112 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-08-30 11:23:27,424 INFO main.py'' check_bios 121 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-08-30 11:23:27,957 INFO main.py'' check_os_version 131 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>
+2023-08-30 12:27:22,490 INFO main.py'' get_server_uptime 37 :: Server up<re.Match object; span=(10, 15), match='up 30'>
+2023-08-30 12:27:22,922 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-08-30 12:27:23,323 INFO main.py'' raid_controller 112 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-08-30 12:27:23,717 INFO main.py'' check_bios 121 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-08-30 12:27:24,072 INFO main.py'' check_os_version 131 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>
+2023-08-30 12:29:00,174 INFO main.py'' get_server_uptime 37 :: Server up<re.Match object; span=(10, 15), match='up 32'>
+2023-08-30 12:29:00,584 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-08-30 12:29:01,073 INFO main.py'' raid_controller 112 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-08-30 12:29:01,509 INFO main.py'' check_bios 121 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-08-30 12:29:01,915 INFO main.py'' check_os_version 131 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>
+2023-08-30 12:32:04,288 INFO main.py'' get_server_uptime 37 :: Server up<re.Match object; span=(10, 15), match='up 35'>
+2023-08-30 12:32:04,704 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-08-30 12:32:05,143 INFO main.py'' raid_controller 112 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-08-30 12:32:05,523 INFO main.py'' check_bios 121 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-08-30 12:32:05,926 INFO main.py'' check_os_version 131 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>
+2023-08-30 13:00:34,508 INFO main.py'' get_server_uptime 37 :: Server up<re.Match object; span=(10, 15), match='up  1'>
+2023-08-30 13:00:34,917 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-08-30 13:00:35,352 INFO main.py'' raid_controller 112 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-08-30 13:00:35,733 INFO main.py'' check_bios 121 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-08-30 13:00:36,143 INFO main.py'' check_os_version 131 :: os information<re.Match object; span=(0, 32), match='PRETTY_NAME="Ubuntu 22.04.2 LTS"'>

@@ -1,0 +1,4 @@
+2023-07-15 12:01:21,562 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-15 12:03:06,348 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-15 12:03:06,680 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-15 12:03:07,019 INFO main.py'' get_fw_version 66 :: drive information not found None

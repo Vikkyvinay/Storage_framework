@@ -1,0 +1,12 @@
+2023-06-30 19:03:06,641 INFO main.py'' raid_controller 110 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-06-30 19:07:09,370 INFO main.py'' get_server_drives 53 :: Listing the server drivers
+2023-06-30 19:16:56,992 INFO main.py'' get_fw_version 68 :: bios information not found None
+2023-06-30 19:18:22,031 INFO main.py'' get_fw_version 68 :: drive information not found None
+2023-06-30 19:19:49,868 INFO main.py'' get_fw_version 65 :: drive information<re.Match object; span=(255, 281), match='Revision:             ES68'>
+2023-06-30 19:21:32,942 INFO main.py'' get_fw_version 68 :: drive information not found None
+2023-06-30 19:21:47,263 INFO main.py'' get_fw_version 68 :: drive information not found None
+2023-06-30 19:22:32,471 INFO main.py'' get_fw_version 68 :: drive information not found None
+2023-06-30 19:22:52,402 INFO main.py'' get_fw_version 65 :: drive information<re.Match object; span=(255, 281), match='Revision:             ES68'>
+2023-06-30 19:24:15,794 INFO main.py'' get_server_drives 53 :: Listing the server drivers
+2023-06-30 19:27:17,069 INFO main.py'' get_fw_version 65 :: drive information<re.Match object; span=(255, 281), match='Revision:             ES68'>

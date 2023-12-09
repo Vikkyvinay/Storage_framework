@@ -1,0 +1,31 @@
+2023-07-14 18:00:39,548 INFO main.py'' get_server_drives 51 :: Listing the server drivers
+2023-07-14 18:00:41,499 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-14 18:00:41,499 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-14 18:00:43,680 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-14 18:00:43,682 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-14 18:00:45,609 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-14 18:00:45,610 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-14 18:00:47,808 INFO main.py'' get_fw_version 63 :: drive informationES68
+2023-07-14 18:00:47,809 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-14 18:00:49,720 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-14 18:00:49,722 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-14 18:00:51,725 INFO main.py'' get_fw_version 63 :: drive informationES62
+2023-07-14 18:00:51,726 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-14 18:00:53,785 INFO main.py'' get_fw_version 63 :: drive informationES66
+2023-07-14 18:00:53,786 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-14 18:00:54,317 INFO main.py'' get_fw_version 66 :: drive information not found None
+2023-07-14 18:00:54,318 INFO main.py'' <module> 193 :: Firmware version and date/time saved to fwversion_currentdateandtime.bin.
+2023-07-14 18:00:55,226 INFO main.py'' raid_controller 124 :: raid controller version03:00.0 RAID bus controller: Broadcom / LSI MegaRAID SAS 2008 [Falcon] (rev 03)
+
+2023-07-14 18:00:55,640 INFO main.py'' check_os_version 144 :: os information<re.Match object; span=(47, 65), match='VERSION_ID="22.04"'>
+2023-07-14 18:00:56,114 INFO main.py'' check_bios 133 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-14 18:00:56,497 INFO main.py'' check_BMC_version 155 :: BMC version<re.Match object; span=(175, 187), match='Version: A01'>
+2023-07-14 18:16:01,239 INFO main.py'' create_partition 160 :: created successfully!
+2023-07-14 18:16:54,741 INFO main.py'' create_partition 160 :: created successfully!
+2023-07-14 18:23:17,542 INFO main.py'' create_partition 161 :: created successfully!
+2023-07-14 18:25:51,250 INFO main.py'' create_partition 161 :: created successfully!
+2023-07-14 18:28:47,267 INFO main.py'' create_partition 161 :: created successfully!
+2023-07-14 18:29:54,522 INFO main.py'' create_partition 161 :: created successfully!
+2023-07-14 18:40:24,229 INFO main.py'' check_bios 118 :: bios information<re.Match object; span=(1007, 1025), match='BIOS Revision: 1.2'>
+2023-07-14 18:50:04,153 INFO main.py'' create_partition 152 :: Partition created successfully!
+2023-07-14 18:50:47,842 INFO main.py'' delete_partition 162 :: Partition deleted Successfully!

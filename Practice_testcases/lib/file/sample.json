@@ -1,0 +1,18 @@
+{"products":[
+          {
+            "product_name": "tv",
+           "price"       : 30000,
+            "no of items": 5
+          },
+          {
+            "product_name": "mobile",
+            "price"       :15000,
+            "no of items": 3
+          },
+        {
+          "product_name": "fan",
+           "price"       :2500,
+           "no of items": 1
+          }
+  ]
+ }
